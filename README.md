@@ -1,4 +1,7 @@
+![logo](bph16_logo.png)
+
 # Budapest Haskell Hackathon 2016 (2016–08–07)
+
 
 Our meetup group held a two day hackathon on the 6th and 7th of August. During the event we had four longer presentations at the event, and four lightning talks. You can find the slides, and links to the videos here, but for more general information about the hackathon please visit the event's [wiki][wiki].
 
