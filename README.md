@@ -1,6 +1,6 @@
 # Budapest Haskell Hackathon 2016 (2016–08–07)
 
-We had four longer presentations at the event, and four lightning talks.
+Our meetup group held a two day hackathon on the 6th and 7th of August. During the event we had four longer presentations at the event, and four lightning talks. You can find the slides, and links to the videos here, but for more general information about the hackathon please visit the event's [wiki][wiki].
 
 ## 🎙️ Presentations 🎙️
 
@@ -83,6 +83,7 @@ More info:
 * [github page][x86]
 * [video][yt_x86]
 
+[wiki]: https://wiki.haskell.org/Budapest_Hackathon_2016
 [oo_haskell]: https://github.com/andorp/oo-haskell
 [howerpoint]: https://github.com/fokot/howerpoint
 [htoolsweb]: http://haskelltools.org
