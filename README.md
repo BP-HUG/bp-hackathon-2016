@@ -12,7 +12,7 @@ _Abstract_:
 More info:
 
 * [slides](https://prezi.com/p/j0dehuddmj1d/)
-* video
+* [video][yt_prezi]
 
 ### Máté Karácsony: Zeldspar: The Road to Epiphany
 
@@ -22,7 +22,7 @@ _Abstract_:
 More info:
 
 * [slides](presentations/MKaracsony_Zeldspar/Zeldspar_the_road_to_epiphany.pdf)
-* video
+* [video][yt_zeldspar]
 
 ### András Kovács: A tour of GHC 8 features
 
@@ -32,7 +32,7 @@ _Abstract:_
 More info:
 
 * [presentation Haskell files](presentations/AKovacs_GHC8)
-* video
+* [video][yt_ghc8]
 
 ### Dániel Berényi: Selected use cases of structured recursion schemes
 
@@ -43,7 +43,7 @@ More info:
 
 * [slides](presentations/DBerenyi_Recursion_schemes/DBerenyi_HaskellHackathon.pdf)
 * [example files](presentations/DBerenyi_Recursion_schemes/)
-* video
+* [video][yt_gpulab]
 
 
 ## ⚡️Ligthining talks⚡️
@@ -54,7 +54,7 @@ _Description:_ A quick experiment to implement OO methods in Haskell. You can fo
 More info:
 
 * [github page][oo_haskell]
-* video
+* [video][yt_oo]
 
 ### Frantisek Kocun: Howerpoint: CLI presentation slides is Haskell
 _Description:_ Use GHCi to display slides for your presentations.
@@ -62,7 +62,7 @@ _Description:_ Use GHCi to display slides for your presentations.
 More info:
 
 * [github page][howerpoint]
-* video
+* [video][yt_hower]
 
 ### Boldizsár Német: Haskell tools demo
 _Description:_ A new refractoring tool for Haskell.
@@ -73,7 +73,7 @@ More info:
 * [slides](lightning_talks/BNemeth_Haskell_tools.pdf)
 * [website][htoolsweb]
 * [github page][htoolsgit]
-* video
+* [video][yt_htools]
 
 ### Péter Divánszky: x86–64 code generation is Haskell demo
 _Description:_ Generate x86 assembly code from Haskell.
@@ -81,10 +81,18 @@ _Description:_ Generate x86 assembly code from Haskell.
 More info:
 
 * [github page][x86]
-* video
+* [video][yt_x86]
 
 [oo_haskell]: https://github.com/andorp/oo-haskell
 [howerpoint]: https://github.com/fokot/howerpoint
 [htoolsweb]: http://haskelltools.org
 [htoolsgit]: https://github.com/haskell-tools/haskell-tools
-[x86]: https://github.com/divipp/x86-64 
+[x86]: https://github.com/divipp/x86-64
+[yt_prezi]: https://www.youtube.com/watch?v=5fnQWaIS30A
+[yt_zeldspar]: https://www.youtube.com/watch?v=GY5SxLkVyp4
+[yt_gpulab]: https://www.youtube.com/watch?v=0Od_smjZ_jU
+[yt_ghc8]: https://www.youtube.com/watch?v=cCGqV90jyOc
+[yt_oo]: https://www.youtube.com/watch?v=vw9PKN7EwTs
+[yt_hower]: https://www.youtube.com/watch?v=C88Og_lX22E
+[yt_htools]: https://www.youtube.com/watch?v=wpNxuR-XgNQ
+[yt_x86]: https://www.youtube.com/watch?v=H8gPOHb2A-0
