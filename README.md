@@ -68,7 +68,7 @@ More info:
 * [github page][howerpoint]
 * [video][yt_hower]
 
-### Boldizsár Német: Haskell tools demo
+### Boldizsár Németh: Haskell tools demo
 _Description:_ A new refractoring tool for Haskell.
 **Contributors are welcome! If you know to write plugins for text editors (e.g. Emacs, Vim), or IDEs and want to help please contact Boldizsár!**
 
